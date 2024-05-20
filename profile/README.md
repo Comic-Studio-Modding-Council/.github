@@ -30,8 +30,11 @@ stuff for comic.studio
 
 ================ [Member] ==========non-GH
                 8painpaths                
-                 AuLeStub                 
+                 AuLeStub
+                CRarchive                 
                  TheoBruh                 
-
+                  ySyncs                  
+                  ZPIZAL                  
+                                          
 ================== [End] =============CSMC
 ```
