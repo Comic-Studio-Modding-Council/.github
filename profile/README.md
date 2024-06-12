@@ -20,21 +20,28 @@ stuff for comic.studio
 
 ================ [Leader] ==============GH
                  Bang1338                 
-
+				          
 ================ [Leader] ==========non-GH
                   WL^DBT                  
                  xMaxtris                 
-				 
+				          
 ================ [Member] ==============GH
                 tungdo0602                
-
+				          
 ================ [Member] ==========non-GH
                 8painpaths                
                  AuLeStub
                 CRarchive                 
-                 TheoBruh                 
+                 TheoBruh
+                  ToPhat                  
                   ySyncs                  
                   ZPIZAL                  
-                                          
+				          
+================ [TrialM] ==============GH
+                  Kirbzie                 
+				          
+================ [TrialM] ==========non-GH
+                  ToPhat
+
 ================== [End] =============CSMC
 ```
